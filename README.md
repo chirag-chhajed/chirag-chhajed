@@ -1,4 +1,3 @@
-![](./svg/wave.svg)
 Hi 👋 My name is Chirag
 =======================
 
